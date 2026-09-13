@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign
+
+Sitemap: https://areaseparate.github.io/comfyui-windows-2026/sitemap.xml

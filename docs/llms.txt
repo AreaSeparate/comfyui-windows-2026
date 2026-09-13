@@ -1,0 +1,18 @@
+# comfyui-windows-2026
+
+> ComfyUI — портативная сборка для Windows: локальная генерация Stable Diffusion / FLUX без облака
+
+Download comfyui-windows-2026 from Releases, extract, run. ComfyUI opens in the browser — no cloud.
+
+## Pages
+- Site: https://areaseparate.github.io/comfyui-windows-2026/
+- Release: https://github.com/AreaSeparate/comfyui-windows-2026/releases/latest
+- Source repo: https://github.com/AreaSeparate/comfyui-windows-2026
+- Engine: https://github.com/Comfy-Org/ComfyUI
+
+## Queries
+- ComfyUI download Windows
+- ComfyUI portable Windows
+- local Stable Diffusion download
+
+Windows 10/11, local GPU, no subscription.
